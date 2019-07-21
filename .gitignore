@@ -103,7 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-.pickle
-.vocab
-wordclould/
-.model
+*.pickle
+*.vocab
+wordclould/*
+wordcloud
+*.model
