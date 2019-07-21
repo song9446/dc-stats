@@ -1,0 +1,7 @@
+git+git://github.com/song9446/dcinside-python3-api@master#egg=dc_api
+soykeyword
+soynlp
+krwordrank
+wordcloud
+matplotlib
+soyspacing
